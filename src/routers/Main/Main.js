@@ -31,7 +31,10 @@ const Main = () =>{
                     </div>
                 </div>
             </div>
-            <footer></footer>
+            <footer>
+                <div></div>
+                <div></div>
+            </footer>
         </div>
     );
 }
